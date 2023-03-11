@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Dionysus.iml" filepath="$PROJECT_DIR$/.idea/Dionysus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dionysus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Dionysus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dionysus.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Dionysus.test.iml" />
+    </modules>
+  </component>
+</project>

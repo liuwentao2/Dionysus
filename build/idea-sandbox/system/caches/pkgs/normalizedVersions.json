@@ -1,0 +1,26 @@
+{
+    "maxSize": 4000,
+    "map": [
+        {
+            "versionName": "0.11.0",
+            "isStable": true,
+            "releasedAt": null
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "0.11.0",
+                "isStable": true,
+                "releasedAt": null
+            },
+            "original": {
+                "versionName": "0.11.0",
+                "isStable": true,
+                "releasedAt": null
+            },
+            "semanticPart": "0.11.0",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        }
+    ]
+}

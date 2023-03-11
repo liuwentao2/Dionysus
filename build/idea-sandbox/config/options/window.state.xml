@@ -1,0 +1,11 @@
+<application>
+  <component name="WindowManager">
+    <frame x="0" y="25" width="1792" height="1024" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="896" y="474" width="800" height="650" key="WELCOME_SCREEN" timestamp="1678524420461">
+      <screen x="0" y="25" width="1792" height="1024" />
+    </state>
+    <state x="896" y="474" width="800" height="650" key="WELCOME_SCREEN/0.25.1792.1024" timestamp="1678524420461" />
+  </component>
+</application>

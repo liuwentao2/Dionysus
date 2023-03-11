@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1678352851302" />
+    </e>
+    <e n="$Undo">
+      <i c="15" l="1678352850433" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="117" l="1678535357027" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1678535262665" />
+    </e>
+    <e n="EditorPaste">
+      <i c="11" l="1678535264123" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1678340985698" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="6" l="1678524433572" />
+    </e>
+  </component>
+</application>

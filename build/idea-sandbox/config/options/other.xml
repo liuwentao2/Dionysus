@@ -1,0 +1,47 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2MlITF6IrWwzXMkBPuRB6xc11hj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;NextRunPlatformUpdateBuild&quot;: &quot;IC-223.8836.41/2022.3.3&quot;,
+    &quot;NextRunPlatformUpdateVersion&quot;: &quot;2022.3.3&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.run.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;IC-221.6008.13&quot;,
+    &quot;eclipse.projects.detected&quot;: &quot;&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;2&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.cwm.invitation.notification&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;IC-221.6008.13&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ide.updates.whats.new.shown.for&quot;: &quot;221&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;221-1.6.21-release-337-IJ6008.13&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IC-221.6008.13&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Dionysus-history2" project-path="$USER_HOME$/IdeaProjects/Dionysus" last-access-time="1678534948612" />
+    </command-history-files>
+  </component>
+</application>

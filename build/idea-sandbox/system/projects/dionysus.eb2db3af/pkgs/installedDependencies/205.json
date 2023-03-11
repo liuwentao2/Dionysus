@@ -1,0 +1,73 @@
+{
+    "cacheVersion": 2,
+    "fileHashCode": 205,
+    "sha256": "7c087e5a757a768f817ecaebc5ad6a74287d32d788d5a86f3046dc2c4a230027",
+    "parsingAttempts": 1,
+    "projectName": "Dionysus",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "com.theokanning.openai-gpt3-java",
+                "artifactId": "api",
+                "version": "0.11.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "com.theokanning.openai-gpt3-java",
+                "artifactId": "client",
+                "version": "0.11.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "com.theokanning.openai-gpt3-java",
+                "artifactId": "service",
+                "version": "0.11.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "com.squareup.retrofit2",
+                "artifactId": "retrofit",
+                "version": "2.9.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "com.squareup.retrofit2",
+                "artifactId": "converter-jackson",
+                "version": "2.9.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "com.squareup.retrofit2",
+                "artifactId": "adapter-rxjava2",
+                "version": "2.9.0"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "io.reactivex.rxjava2",
+                "artifactId": "rxjava",
+                "version": "2.2.21"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "io.reactivex.rxjava2",
+                "artifactId": "rxandroid",
+                "version": "2.1.1"
+            },
+            "scope": "implementation"
+        }
+    ]
+}
